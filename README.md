@@ -8,3 +8,8 @@ Functionalities -
 2.  Remove a user from list
 3.  Add a new user to list
 4.  Update a user's data
+
+API from retool.com
+// This api will be disabled after 1 month from deployment
+
+> https://retoolapi.dev/MWXN5G/data
