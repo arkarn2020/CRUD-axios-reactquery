@@ -1,6 +1,7 @@
 ### CRUD app using react axios & react-query
 
 A simple users CRUD app
+click to see [site running live](https://ark-crud.netlify.app/)
 
 Functionalities -
 
